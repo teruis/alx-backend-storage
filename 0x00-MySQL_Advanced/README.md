@@ -1,13 +1,6 @@
 0x00. MySQL advanced
 ====================
 
-Back-endSQLMySQL
-
--   By Guillaume Plessis, Senior Cloud & System Engineer at WeWork and Guillaume, CTO at Holberton school
--   Weight: 1
-
--   An auto review will be launched at the deadline
-
 ### Concepts
 
 *For this project, we expect you to look at this concept:*
@@ -30,11 +23,6 @@ Resources
 -   [CREATE PROCEDURE and CREATE FUNCTION Statements](https://dev.mysql.com/doc/refman/5.7/en/create-procedure.html "CREATE PROCEDURE and CREATE FUNCTION Statements")
 -   [CREATE INDEX Statement](https://dev.mysql.com/doc/refman/5.7/en/create-index.html "CREATE INDEX Statement")
 -   [CREATE VIEW Statement](https://dev.mysql.com/doc/refman/5.7/en/create-view.html "CREATE VIEW Statement")
-
-Learning Objectives
--------------------
-
-At the end of this project, you are expected to be able to [explain to anyone](https://alx-intranet.hbtn.io/rltoken/NEA0Fr7muHfukl5lziVAhg "explain to anyone"), **without the help of Google**:
 
 ### General
 
